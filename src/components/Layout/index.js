@@ -1,5 +1,14 @@
-import './App.scss'
-import { Routes, Route } from 'react-router-dom'
-import Layout from './components/Layout.component'
 
-Function
+import './index.scss';
+import Sidebar from '../Sidebar/'
+
+const Layout = () => {
+    return (
+        <>
+            <Sidebar />
+        </>
+    )
+}
+
+
+export default Layout;

@@ -1,4 +1,31 @@
-# Getting Started with Create React App
+# My Personal Portfolio Website
+
+## Overview
+Welcome to my personal portfolio website! I created this website by following a step-by-step tutorial on YouTube. The tutorial guided me through the process of building a modern and responsive portfolio website that showcases my skills and projects as a developer.  You can checkout the Youtube tutorial at https://www.youtube.com/watch?v=ESHaail1eGc.
+
+## Features
+- A clean and modern design
+- Responsive layout that adapts to different screen sizes
+- Information about me, my skills, and experience
+- Projects I have worked on, with links to live demos and code repositories
+- Contact form for visitors to get in touch with me
+
+## Technologies Used
+- HTML5 and CSS3
+- JavaScript and jQuery
+- Bootstrap 4
+- Font Awesome icons
+- Google Fonts
+
+## Change Log
+- 04-17-2023 - Created React App with npx and installed libraries and set up repository.
+- 04-17-2023 - Created the file structure for all components and added font and images to resources. Tested file sourcing locations.
+- 04-17-2023 - Defined globe styling. 
+- 04-18-2023 - Build left side bar. 
+- Stopped @ 20min
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
