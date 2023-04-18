@@ -5,6 +5,7 @@ import Contact from './components/Contact'
 import Layout from './components/Layout'
 import Portfolio from './components/Portfolio'
 import Dashboard from './components/Dashboard'
+import Footer from './components/Footer'
 import './App.scss'
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
           <Route path="Dashboard" element={<Dashboard />} />
         </Route>
       </Routes>
+      <Footer kao="Kao Saelor" />
     </>
   )
 }
