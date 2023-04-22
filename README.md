@@ -18,10 +18,10 @@ Welcome to my personal portfolio website! I created this website by following a 
 - Google Fonts
 
 ## Change Log
-- 04-17-2023 - Created React App with npx and installed libraries and set up repository.
-- 04-17-2023 - Created the file structure for all components and added font and images to resources. Tested file sourcing locations.
-- 04-17-2023 - Defined globe styling. 
-- 04-18-2023 - Build left side bar. 
+-  Created React App with npx and installed libraries and set up repository.
+- Created the file structure for all components and added font and images to resources. Tested file sourcing locations.
+- Defined globe styling. 
+- Build left side bar. 
 - Stopped @ 20min
 
 
