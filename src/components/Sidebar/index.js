@@ -31,8 +31,8 @@ const Sidebar = () => (
             </li>
 
             <li>
-                <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/kao-saelor/">
-                <FontAwesomeIcon icon={faLinkedin} color="4d4d44" />
+                <a href="https://www.linkedin.com/in/kao-saelor/" target="_blank" rel="noreferrer">
+                <FontAwesomeIcon icon={faLinkedin} color="4d4d44" className="anchor-icon"/>
                 </a>
             </li>
         </ul>
