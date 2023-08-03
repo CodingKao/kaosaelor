@@ -1,7 +1,7 @@
 # My Personal Portfolio Website
 
 ## Overview
-Welcome to my personal portfolio website! I created this website by following a step-by-step tutorial on YouTube. The tutorial guided me through the process of building a modern and responsive portfolio website that showcases my skills and projects as a developer.  You can checkout the Youtube tutorial at https://www.youtube.com/watch?v=ESHaail1eGc.
+Welcome to my personal portfolio website! I created this website by following a step-by-step tutorial on YouTube. The tutorial guided me through the process of building a modern and responsive portfolio website that showcases my skills and projects as a developer.  You can checkout the Youtube tutorial at https://www.youtube.com/watch?v=G-Cr00UYokU.
 
 ## Features
 - A clean and modern design
