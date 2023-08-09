@@ -16,5 +16,5 @@ Welcome to my personal portfolio website! I created this website by following a 
 - HTML5 and CSS3
 - JavaScript
 - React
-- Bootstrap 4
 - React Icons
+
