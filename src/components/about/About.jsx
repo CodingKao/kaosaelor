@@ -25,23 +25,23 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon' />
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>1+ Years Working</small>
             </article>
 
             <article className='about__card'>
               <FiUsers className='about__icon' />
               <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              {/* <small>200+ Worldwide</small> */}
             </article>
 
             <article className='about__card'>
               <VscFolderLibrary className='about__icon' />
               <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <small>10+ Completed</small>
             </article>
           </div>
 
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo sunt repellendus reprehenderit autem, officiis voluptatum expedita vero provident. Tenetur at voluptatibus ducimus dolor ipsa assumenda nulla corporis odit fuga culpa.</p>
+            <p>Full stack JavaScript developer with finance/accounting background, lifelong learner, and Marine Corps veteran. Committed to crafting innovative financial applications that optimize business processes and drive growth.</p>
 
             <a href="#contact" className='btn btn-primary'>Let's Chat</a>
 
