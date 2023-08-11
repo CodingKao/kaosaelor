@@ -23,7 +23,7 @@ const data = [
     image: PortfolioWebsite,
     title: 'Personal portfolio website',
     github: 'https://github.com/CodingKao/kaosaelor',
-    demo: 'https://github.com/CodingKao/kaosaelor',
+    demo: 'https://kaosaelor.netlify.app/',
     summary: 'Created a portfolio website that highlighted my projects and skills. It effectively showcased my achievements to potential clients and employers. ',
     tech: 'JavaScript, React, HTML, CSS, EmailJS, and react-icons'
   },
