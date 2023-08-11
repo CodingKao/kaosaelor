@@ -1,8 +1,15 @@
 import React from 'react'
+import './footer.css';
+
 
 const Footer = () => {
   return (
-    <div>Kao Saelor</div>
+    <footer>
+      <div className="footer__copyright">
+        <small>&copy; 2023 Kao Saelor. All rights reserved.</small>
+      </div>
+    </footer>
+
   )
 }
 

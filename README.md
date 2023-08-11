@@ -17,4 +17,5 @@ Welcome to my personal portfolio website! I created this website by following a 
 - JavaScript
 - React
 - React Icons
+- EmailJS
 
