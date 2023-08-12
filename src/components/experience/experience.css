@@ -12,12 +12,6 @@
     transition: var(--transition);
 }
 
-.experience__container > div:hover {
-    background: transparent;
-    border-color: var(--color-primary-variant);
-    cursor: default;
-}
-
 .experience__container > div h3 {
     text-align: center;
     margin-bottom: 2rem;
@@ -39,6 +33,7 @@
     margin-top: 6px;
     color: var(--color-primary);
 }
+
 
 /* ================ MEDIA QUERIES (MEDIUM DEVICES) ================ */
 @media screen and (max-width: 1024px) {
