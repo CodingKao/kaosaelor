@@ -13,7 +13,7 @@ const data = [
     id: 1,
     image: DateNight,
     title: 'Date Night Planner',
-    github: 'https://github.com/Date-Planner',
+    code: 'https://github.com/Date-Planner',
     demo: 'https://github.com/Date-Planner',
     summary: 'An app that allows users to plan their next date night with staying-in or going-out options. ',
     tech: 'JavaScript, HTML, CSS, Node.js, React, react-icons, ExpressJS, Mongoose, MongoDB, and Auth0.'
@@ -22,7 +22,7 @@ const data = [
     id: 2,
     image: PortfolioWebsite,
     title: 'Personal portfolio website',
-    github: 'https://github.com/CodingKao/kaosaelor',
+    code: 'https://github.com/CodingKao/kaosaelor',
     demo: 'https://kaosaelor.netlify.app/',
     summary: 'Created a portfolio website that highlighted my projects and skills. It effectively showcased my achievements to potential clients and employers. ',
     tech: 'JavaScript, React, HTML, CSS, EmailJS, and react-icons'
@@ -31,7 +31,7 @@ const data = [
     id: 3,
     image: IMG3,
     title: 'Project 3',
-    github: 'https://github.com/CodingKao',
+    code: 'https://github.com/CodingKao',
     demo: 'https://github.com/CodingKao',
     summary: 'blah blah blah',
     tech: 'html'
@@ -40,7 +40,7 @@ const data = [
     id: 4,
     image: IMG4,
     title: 'Project4',
-    github: 'https://github.com/CodingKao',
+    code: 'https://github.com/CodingKao',
     demo: 'https://github.com/CodingKao',
     summary: 'blah blah blah',
     tech: 'html'
@@ -49,7 +49,7 @@ const data = [
     id:5,
     image: IMG5,
     title: 'Project 5',
-    github: 'https://github.com/CodingKao',
+    code: 'https://github.com/CodingKao',
     demo: 'https://github.com/CodingKao',
     summary: 'blah blah blah blah',
     tech: 'html'
@@ -58,7 +58,7 @@ const data = [
     id: 6,
     image: IMG6,
     title: 'Project 6',
-    github: 'https://github.com/CodingKao',
+    code: 'https://github.com/CodingKao',
     demo: 'https://github.com/CodingKao',
     summary: 'blah blah blah',
     tech: 'html'
@@ -84,7 +84,7 @@ const Portfolio = () => {
                 <p><b>Summary:</b> {summary}</p><br></br>
                 <p><b>Technologies Used:</b><em> {tech}</em> </p>
                 <div className="portfolio__item-cta">
-                  <a href={github} className='btn' target='_blank' rel="noreferrer">Github</a>
+                  <a href={github} className='btn' target='_blank' rel="noreferrer">Code</a>
                   <a href={demo} className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
                 </div>
               </article>

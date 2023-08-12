@@ -12,11 +12,6 @@
     transition: var(--transition);
 }
 
-.portfolio__item:hover {
-    border-color: var(--color-primary-variant);
-    background: transparent;
-}
-
 .portfolio__item-image {
     max-width: 100%; /* Ensure the image doesn't exceed its container */
     height: auto; /* Maintain the image's aspect ratio */

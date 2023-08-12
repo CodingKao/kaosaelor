@@ -1,6 +1,7 @@
 import React from 'react'
 import './experience.css'
 import { BsPatchCheckFill } from 'react-icons/bs'
+import CTA from '../header/CTA'
 
 const Experience = () => {
   return (
@@ -103,9 +104,16 @@ const Experience = () => {
 
           </div>
         </div>
+        {/* END OF BACKEND */}
 
       </div>
-    </section>
+
+      <div className="cv__container">
+      <div className="cv">
+        <CTA />
+      </div>
+    </div>
+    </section >
 
   )
 }
