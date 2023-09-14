@@ -2,7 +2,7 @@ import React from 'react'
 import './portfolio.css'
 import DateNight from '../../assets/date-night.png'
 import PortfolioWebsite from '../../assets/portfolio-website.png'
-import IMG3 from '../../assets/portfolio3.jpg'
+import Admindash from '../../assets/Admindash.png'
 import IMG4 from '../../assets/portfolio4.jpg'
 import IMG5 from '../../assets/portfolio5.png'
 import IMG6 from '../../assets/portfolio6.jpg'
@@ -15,21 +15,21 @@ const data = [
     title: 'Date Night Planner',
     code: 'https://github.com/Date-Planner',
     demo: 'https://github.com/Date-Planner',
-    summary: 'An app that allows users to plan their next date night with staying-in or going-out options. ',
-    tech: 'JavaScript, HTML, CSS, Node.js, React, react-icons, ExpressJS, Mongoose, MongoDB, and Auth0.'
+    summary: 'An app that allows users to plan their next date night with staying-in or going-out options. With a sleek and intuitive mobile theme, Date Night Planner ensures a user-friendly experience for effortless date night planning',
+    tech: 'JavaScript, HTML, CSS, Node.js, React, react-icons, ExpressJS, Mongoose, MongoDB, and Auth0 and Netlify.'
   },
   {
     id: 2,
-    image: PortfolioWebsite,
-    title: 'Personal portfolio website',
-    code: 'https://github.com/CodingKao/kaosaelor',
-    demo: 'https://kaosaelor.netlify.app/',
-    summary: 'Created a portfolio website that highlighted my projects and skills. It effectively showcased my achievements to potential clients and employers. ',
-    tech: 'JavaScript, React, HTML, CSS, EmailJS, and react-icons'
+    image: Admindash,
+    title: 'Admin Dashboard',
+    code: 'https://github.com/CodingKao/admindash',
+    demo: 'https://github.com/CodingKao/admindash',
+    summary: 'The Admin Dashboard App uses React and Syncfusion tools for theming, tables, charts, calendar, and Kanban integration. It has three pages, four apps, and seven dynamic charts for efficient data-driven decision-making.',
+    tech: 'JavaScript, React, React-icons, Tailwind, Syncfusion, and Netlify.'
   },
   {
     id: 3,
-    image: IMG3,
+    image: Admindash,
     title: 'Project 3',
     code: 'https://github.com/CodingKao',
     demo: 'https://github.com/CodingKao',
@@ -56,12 +56,12 @@ const data = [
   },
   {
     id: 6,
-    image: IMG6,
-    title: 'Project 6',
-    code: 'https://github.com/CodingKao',
-    demo: 'https://github.com/CodingKao',
-    summary: 'blah blah blah',
-    tech: 'html'
+    image: PortfolioWebsite,
+    title: 'Personal portfolio website',
+    code: 'https://github.com/CodingKao/kaosaelor',
+    demo: 'https://kaosaelor.netlify.app/',
+    summary: 'Created a portfolio website that highlighted my projects and skills. It effectively showcased my achievements to potential clients and employers. ',
+    tech: 'JavaScript, React, HTML, CSS, EmailJS, and react-icons, and Netlify'
   }
 ]
 
