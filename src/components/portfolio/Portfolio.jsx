@@ -3,20 +3,20 @@ import './portfolio.css'
 import DateNight from '../../assets/date-night.png'
 import PortfolioWebsite from '../../assets/portfolio-website.png'
 import Admindash from '../../assets/Admindash.png'
-import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.png'
-import IMG6 from '../../assets/portfolio6.jpg'
+import aisummarize from '../../assets/ai-summarize.jpg'
+import IMG4 from '../../assets/portfolio5.png'
+import IMG5 from '../../assets/portfolio6.jpg'
 
 // LIST OF PROJECTS
 const data = [
   {
     id: 1,
-    image: DateNight,
-    title: 'Date Night Planner',
-    code: 'https://github.com/Date-Planner',
-    demo: 'https://github.com/Date-Planner',
-    summary: 'An app that allows users to plan their next date night with staying-in or going-out options. With a sleek and intuitive mobile theme, Date Night Planner ensures a user-friendly experience for effortless date night planning',
-    tech: 'JavaScript, HTML, CSS, Node.js, React, react-icons, ExpressJS, Mongoose, MongoDB, and Auth0 and Netlify.'
+    image: aisummarize,
+    title: 'AI Article Summarize',
+    code: 'https://github.com/CodingKao/ai-summarize',
+    demo: 'https://ai-summarize-kao.netlify.app/',
+    summary: 'The AI Summarize App harnesses OpenAI GPT-4\'s power to revolutionize article consumption. Simply copy and paste an article link, and the app generates concise and accurate summaries, saving you time and effort.',
+    tech: 'JavaScript, React, React-icons, Vitejs, RapidAPI, Tailwind and Netlify.'
   },
   {
     id: 2,
@@ -29,12 +29,12 @@ const data = [
   },
   {
     id: 3,
-    image: Admindash,
-    title: 'Project 3',
-    code: 'https://github.com/CodingKao',
-    demo: 'https://github.com/CodingKao',
-    summary: 'blah blah blah',
-    tech: 'html'
+    image: DateNight,
+    title: 'Date Night Planner',
+    code: 'https://github.com/Date-Planner',
+    demo: 'https://github.com/Date-Planner',
+    summary: 'An app that allows users to plan their next date night with staying-in or going-out options. With a sleek and intuitive mobile theme, Date Night Planner ensures a user-friendly experience for effortless date night planning',
+    tech: 'JavaScript, HTML, CSS, Node.js, React, react-icons, ExpressJS, Mongoose, MongoDB, and Auth0 and Netlify.'
   },
   {
     id: 4,
