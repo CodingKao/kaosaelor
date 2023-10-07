@@ -4,7 +4,7 @@ import DateNight from '../../assets/date-night.png'
 import PortfolioWebsite from '../../assets/portfolio-website.png'
 import Admindash from '../../assets/Admindash.png'
 import aisummarize from '../../assets/ai-summarize.jpg'
-import IMG4 from '../../assets/portfolio5.png'
+import cyclistic from '../../assets/cyclistic-capstone.png'
 import IMG5 from '../../assets/portfolio6.jpg'
 
 // LIST OF PROJECTS
@@ -38,12 +38,12 @@ const data = [
   },
   {
     id: 4,
-    image: IMG4,
-    title: 'Project4',
-    code: 'https://github.com/CodingKao',
-    demo: 'https://github.com/CodingKao',
-    summary: 'blah blah blah',
-    tech: 'html'
+    image: cyclistic,
+    title: 'Cyclistic Analysis',
+    code: 'https://github.com/CodingKao/cyclistic_analysis',
+    demo: 'https://rpubs.com/Codingkao/cyclistic-analysis',
+    summary: 'Conducted a comprehensive data analysis to explore the distinct usage patterns of annual members and casual riders in Cyclistic bike-sharing. Leveraging powerful tools such as R, R Studio, R Markdown, and Excel spreadsheets, I uncovered valuable insights that have the potential to shape future marketing strategies.',
+    tech: 'R, R Studio, R Markdown, Rpubs, and Excel spreadsheets'
   },
   {
     id:5,
