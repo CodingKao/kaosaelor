@@ -5,7 +5,7 @@ import HornedBeast from '../../assets//hornedbeast3.png'
 import Admindash from '../../assets/Admindash.png'
 import aisummarize from '../../assets/ai-summarize.jpg'
 import cyclistic from '../../assets/cyclistic-capstone.png'
-import storefront from '../../assets/storefont2.png'
+import combototal from '../../assets/combototal.png'
 
 // LIST OF PROJECTS
 const data = [
@@ -38,12 +38,12 @@ const data = [
   },
   {
     id:4,
-    image: storefront,
-    title: 'Store Front',
-    code: 'https://github.com/CodingKao/storefront',
-    demo: 'https://playful-licorice-86a9d1.netlify.app/',
-    summary: 'Created an intuitive Store Front app using Redux for seamless state management. This user-friendly application categorizes products into three distinct categories, enhancing the shopping experience. With efficient state handling, it ensures a smooth and responsive interface for users to explore and purchase products easily. ',
-    tech: 'JavaScript, HTML, CSS, React, Redux, Netlify'
+    image: combototal,
+    title: 'Combination Finder',
+    code: 'https://github.com/CodingKao/subsetTotal',
+    demo: 'https://subsettotal.netlify.app/',
+    summary: 'Combination Finder is an application that takes in a set of numbers and a target total, then finds the combination of numbers that adds up to the given total. This can be useful in various scenarios, such as identifying a subset of expenses that matches a budget or finding a combination of items with a specific cost.',
+    tech: 'JavaScript, HTML, CSS, Netlify'
   },
   {
     id: 5,
