@@ -6,11 +6,21 @@ import Admindash from '../../assets/Admindash.png'
 import aisummarize from '../../assets/ai-summarize.jpg'
 import cyclistic from '../../assets/cyclistic-capstone.png'
 import combototal from '../../assets/combototal.png'
+import catering from '../../assets/catering-event-predicted-vs-actual.png'
 
 // LIST OF PROJECTS
 const data = [
-  {
+    {
     id: 1,
+    image: catering,
+    title: 'Catering Revenue Predictor',
+    code: 'https://github.com/CodingKao/event-revenue-predictor',
+    demo: 'https://github.com/CodingKao/event-revenue-predictor/blob/main/Predicting-Catering-Revenue.ipynb',
+    summary: 'This project uses Python to build a regression model that predicts catering event revenue based on key business factors like guest count, event type, and menu tier.',
+    tech: 'Jupyter Notebook, Python, VS Code, Pandas, NumPy, Statsmodels, Scikit-learn, Matplotlib, and Seaborn'
+  },
+  {
+    id: 2,
     image: aisummarize,
     title: 'AI Article Summarize',
     code: 'https://github.com/CodingKao/ai-summarize',
@@ -19,7 +29,7 @@ const data = [
     tech: 'JavaScript, React, React-icons, Vitejs, RapidAPI, Tailwind and Netlify.'
   },
   {
-    id: 2,
+    id: 3,
     image: Admindash,
     title: 'Admin Dashboard',
     code: 'https://github.com/CodingKao/admindash',
@@ -28,7 +38,7 @@ const data = [
     tech: 'JavaScript, React, React-icons, Tailwind, Syncfusion, and Netlify.'
   },
   {
-    id: 3,
+    id: 4,
     image: cyclistic,
     title: 'Cyclistic Analysis',
     code: 'https://github.com/CodingKao/cyclistic_analysis',
@@ -37,22 +47,13 @@ const data = [
     tech: 'R, R Studio, R Markdown, Rpubs, and Excel spreadsheets'
   },
   {
-    id:4,
+    id:5,
     image: combototal,
     title: 'Combination Finder',
     code: 'https://github.com/CodingKao/subsetTotal',
     demo: 'https://subsettotal.netlify.app/',
     summary: 'Combination Finder is an application that takes in a set of numbers and a target total, then finds the combination of numbers that adds up to the given total. This can be useful in various scenarios, such as identifying a subset of expenses that matches a budget or finding a combination of items with a specific cost.',
     tech: 'JavaScript, HTML, CSS, Netlify'
-  },
-  {
-    id: 5,
-    image: HornedBeast,
-    title: 'Horned Beast',
-    code: 'https://github.com/CodingKao/horned-beast',
-    demo: 'https://horned-beast-kao.netlify.app',
-    summary: 'Created an application that displays images and information of horned animals. This application will allow you to filter the images by number of horns and chose your favorite image.',
-    tech: 'JavaScript, React, HTML, CSS, React-bootstrap, Modal, and Netlify'
   },
   {
     id: 6,
