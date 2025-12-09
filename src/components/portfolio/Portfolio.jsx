@@ -1,7 +1,6 @@
 import React from 'react'
 import './portfolio.css'
 import DateNight from '../../assets/date-night.png'
-import HornedBeast from '../../assets//hornedbeast3.png'
 import Admindash from '../../assets/Admindash.png'
 import aisummarize from '../../assets/ai-summarize.jpg'
 import cyclistic from '../../assets/cyclistic-capstone.png'
